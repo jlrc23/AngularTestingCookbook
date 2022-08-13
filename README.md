@@ -2,6 +2,9 @@
 
 ## Report Config for command line
 
+<details>
+  <summary>Details</summary>
+
 ### Mocha Report
 
 1. Install dependency
@@ -12,8 +15,12 @@ npm i karma-mocha-reporter --save-dev
 3. Change Report `reporters: ['mocha']`,
 4. Change `browsers: ['ChromeHeadless']`
 
+</details>
 
 ## Faker JS Dependecy
+
+<details>
+  <summary>Details</summary>
 
 ```
 npm i faker-js/faker --save-dev
@@ -37,4 +44,4 @@ npm install --save-dev @faker-js/faker
   }; 
 ```
 
-
+</details>
